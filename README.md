@@ -19,3 +19,12 @@ Escribir una función mas_larga() que tome una lista de palabras y devuelva la m
 Idea de solucion: igual que ejercicio 1 pero comparando longitud. Controlando las palabras de maxima longitud
 
 ![Screenshot](captura2.png)
+
+## Ejercicio 3
+
+Escribir una función filtrar_palabras() que tome una lista de palabras y un entero n, y
+devuelva las palabras que tengan más de n carácteres.
+
+Idea: similar al 2
+
+![Screenshot](captura3.png)
