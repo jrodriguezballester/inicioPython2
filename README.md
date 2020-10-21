@@ -37,3 +37,11 @@ tiene que evaluar la cadena y decir cuantas letras mayúsculas tiene.
 idea: utilizar upper o lower, comprobar como cuenta caracteres no letras
 
 ![Screenshot](captura4.png)
+
+## Ejercicio 5
+
+Construir un pequeño programa que convierta números binarios en enteros.
+
+idea: utilizar funcion int (numero, base= )
+
+![Screenshot](captura5.png)
