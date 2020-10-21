@@ -28,3 +28,12 @@ devuelva las palabras que tengan más de n carácteres.
 Idea: similar al 2
 
 ![Screenshot](captura3.png)
+
+## Ejercicio 4
+
+Escribir un programa que le diga al usuario que ingrese una cadena. El programa
+tiene que evaluar la cadena y decir cuantas letras mayúsculas tiene.
+
+idea: utilizar upper o lower, comprobar como cuenta caracteres no letras
+
+![Screenshot](captura4.png)
