@@ -10,7 +10,7 @@ Escribir una función max_in_list() que tome una lista de números y devuelva el
 
 Solucion: Asignar el maximo al primer numero (asi seguro que el maximo esta en la lista), despues comparar con el segundo y asignar el maximo, así con todos
 
-![Screenshot](Captura1.png)
+![Screenshot](captura1.png)
 
 ## Ejercicio 2
 
@@ -73,3 +73,11 @@ También se puede hacer elegir al usuario la letra a buscar. (Un poco mas
 emocionante
 
 ![Screenshot](captura8.png)
+
+## Ejercicio 9
+
+Crear una función contar_vocales(), que reciba una palabra y cuente cuantas letras
+"a" tiene, cuantas letras "e" tiene y así hasta completar todas las vocales.
+Se puede hacer que el usuario sea quien elija la palabra.
+
+![Screenshot](captura9.png)
