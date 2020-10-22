@@ -46,7 +46,7 @@ idea: utilizar funcion int (numero, base= )
 
 ![Screenshot](captura5.png)
 
-## [Ejercicio 6](84cd8091f869376694330c3699dc552bbb3872b5)
+## Ejercicio 6
 
 Escribir un pequeño programa donde:
 1) Se ingresa el año en curso.
@@ -64,3 +64,12 @@ Puedes variar el ejercicio para que sea el usuario quien ingrese las edades.
 _Nota.- la tupla de la primera parte es machacada por la de la segunda parte_
 
 ![Screenshot](captura7.png)
+
+## Ejercicio 8
+
+Definir una lista con un conjunto de nombres, imprimir la cantidad de comienzan con
+la letra a.
+También se puede hacer elegir al usuario la letra a buscar. (Un poco mas
+emocionante
+
+![Screenshot](captura8.png)
