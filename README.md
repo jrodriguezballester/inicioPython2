@@ -45,3 +45,22 @@ Construir un pequeño programa que convierta números binarios en enteros.
 idea: utilizar funcion int (numero, base= )
 
 ![Screenshot](captura5.png)
+
+## [Ejercicio 6](84cd8091f869376694330c3699dc552bbb3872b5)
+
+Escribir un pequeño programa donde:
+1) Se ingresa el año en curso.
+2) Se ingresa el nombre y el año de nacimiento de tres personas.
+3) Se calcula cuántos años cumplirán durante el año en curso.
+4) Se imprime en pantalla
+
+![Screenshot](captura6.png)
+
+## Ejercicio 7
+
+Definir una tupla con 10 edades de personas. Imprimir la cantidad de personas con
+edades superiores a 20.
+Puedes variar el ejercicio para que sea el usuario quien ingrese las edades.
+_Nota.- la tupla de la primera parte es machacada por la de la segunda parte_
+
+![Screenshot](captura7.png)
